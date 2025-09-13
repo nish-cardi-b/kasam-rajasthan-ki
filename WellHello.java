@@ -1,5 +1,6 @@
 public class WellHello {
     public static void main(String[] args) {
-        System.out.println("padmashri waapsi");  ----------------------------->
+        System.out.println("yea");System.out.println("war 2");System.out.println("a-b");
+        System.out.println("a");
     }
 }
